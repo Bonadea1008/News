@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://bonadea1008.github.io/news/",
+  "homepage": "https://bonadea1008.github.io/News/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /news/"
+    "build": "parcel build src/*.html --public-url /News/"
   },
   "repository": {
     "type": "git",
